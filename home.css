@@ -1,0 +1,48 @@
+body{
+	color:White;
+}
+.cons{
+	display:flex;
+	gap:20px;
+	padding:20px;
+}
+.logo{
+	width:75px;
+	height:75px;
+	margin-top:10px;
+}
+.Topic{
+	flex:2;
+	text-align:center;
+}
+.body{
+	width:1000px;
+	height:500px;
+}
+.navi li{
+	list-style-type:none;
+}
+.navi a{
+	text-decoration:none;
+}
+ul{
+	display:flex;
+	gap:30px;
+	justify-content:center;
+	background-color:white;
+}
+
+.para{
+	text-align:justify;
+	color:pink;
+}
+body{
+	background-image:url('uovimg.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.foot{
+	background-color:blue;
+	text-align:center;
+	font-size:20px;
+}

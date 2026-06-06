@@ -1,0 +1,51 @@
+* {
+  	margin: 0;
+ 	 padding: 0;
+ 	 box-sizing: border-box;
+}
+body{
+	background-color:#F1F5F9;
+	fon-family:sans-serif;
+	}
+
+.logo{
+	text-align:center;
+	padding:25px,0;
+	}
+.topic{
+	text-align:center;
+	padding:15px;
+	margin:10px;
+	background-color:#1E3A8A;
+	color: #F9FAFB;
+	font-family:calibri;
+	}
+.About,.Misson,.visson{
+	border:2px solid green;
+	padding:15px;
+	margin:10px;
+	border-radius:15px;
+	backgroun-color:rgba(255,255,255,0.9);
+	text-align:justify;
+	}
+h3{
+	color:#1E3A8A;
+	} 
+.button{
+	text-align:center;
+ 	text-align: center;
+  	margin: 40px 0;
+	this.style.backgroundcolor:#14446a;
+	}
+	
+.copy{
+	background-color: #14446a;
+	color:white;
+	text-align:center;
+	padding:15px 0;
+	font-size:14px;
+	margin-top:50px;
+	}
+
+	
+
